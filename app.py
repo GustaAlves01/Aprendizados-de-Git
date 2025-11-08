@@ -1,2 +1,0 @@
-frase = "aaaaaaaaaaaaaaa"
-print(frase)
